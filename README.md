@@ -1,1 +1,3 @@
 # portfolio-generator
+
+## npm install

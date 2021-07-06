@@ -80,9 +80,9 @@ module.exports = templateData => {
     // ... stands for 'rest operator', often confused with the 'spread operator'
     const { projects, about, ...header } = templateData;
 
-    console.log(projects);
-    console.log(about);
-    console.log(header);
+    // console.log(projects);
+    // console.log(about);
+    // console.log(header);
 
     return `
         <!DOCTYPE html>
